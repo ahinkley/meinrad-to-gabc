@@ -1,0 +1,952 @@
+	20	32	
+0x21.png	21	33	J
+0x22.png	22	34	
+0x23.png	23	35	
+0x24.png	24	36	
+0x25.png	25	37	
+0x26.png	26	38	
+0x27.png	27	39	
+0x28.png	28	40	
+0x29.png	29	41	
+0x2a.png	2a	42	
+0x2b.png	2b	43	
+0x2c.png	2c	44	
+0x2d.png	2d	45	
+0x2e.png	2e	46	
+0x2f.png	2f	47	
+0x30.png	30	48	
+0x31.png	31	49	
+0x32.png	32	50	
+0x33.png	33	51	
+0x34.png	34	52	
+0x35.png	35	53	
+0x36.png	36	54	
+0x37.png	37	55	
+0x38.png	38	56	
+0x39.png	39	57	
+0x3a.png	3a	58	
+0x3b.png	3b	59	
+0x3c.png	3c	60	
+0x3d.png	3d	61	
+0x3e.png	3e	62	
+0x3f.png	3f	63	
+0x40.png	40	64	
+0x41.png	41	65	
+0x42.png	42	66	
+0x43.png	43	67	
+0x44.png	44	68	
+0x45.png	45	69	
+0x46.png	46	70	
+0x47.png	47	71	
+0x48.png	48	72	
+0x49.png	49	73	
+0x4a.png	4a	74	
+0x4b.png	4b	75	
+0x4c.png	4c	76	
+0x4d.png	4d	77	
+0x4e.png	4e	78	
+0x4f.png	4f	79	
+0x50.png	50	80	
+0x51.png	51	81	
+0x52.png	52	82	
+0x53.png	53	83	
+0x54.png	54	84	
+0x55.png	55	85	
+0x56.png	56	86	
+0x57.png	57	87	
+0x58.png	58	88	
+0x59.png	59	89	
+0x5a.png	5a	90	
+0x5b.png	5b	91	
+0x5c.png	5c	92	
+0x5d.png	5d	93	
+0x5e.png	5e	94	
+0x5f.png	5f	95	
+0x60.png	60	96	
+0x61.png	61	97	
+0x62.png	62	98	
+0x63.png	63	99	
+0x64.png	64	100	
+0x65.png	65	101	
+0x66.png	66	102	
+0x67.png	67	103	
+0x68.png	68	104	
+0x69.png	69	105	
+0x6a.png	6a	106	
+0x6b.png	6b	107	
+0x6c.png	6c	108	
+0x6d.png	6d	109	
+0x6e.png	6e	110	
+0x6f.png	6f	111	
+0x70.png	70	112	
+0x71.png	71	113	
+0x72.png	72	114	
+0x73.png	73	115	
+0x74.png	74	116	
+0x75.png	75	117	
+0x76.png	76	118	
+0x77.png	77	119	
+0x78.png	78	120	
+0x79.png	79	121	
+0x7a.png	7a	122	
+0x7b.png	7b	123	
+0x7c.png	7c	124	
+0x7d.png	7d	125	
+0x7e.png	7e	126	
+0xa1.png	a1	161	
+0xa2.png	a2	162	
+0xa3.png	a3	163	
+0xa5.png	a5	165	
+0xa7.png	a7	167	
+0xa8.png	a8	168	
+0xa9.png	a9	169	
+0xaa.png	aa	170	
+0xab.png	ab	171	
+0xac.png	ac	172	
+0xae.png	ae	174	
+0xb0.png	b0	176	
+0xb1.png	b1	177	
+0xb4.png	b4	180	
+0xb5.png	b5	181	
+0xb6.png	b6	182	
+0xb7.png	b7	183	
+0xba.png	ba	186	
+0xbb.png	bb	187	
+0xbf.png	bf	191	
+0xc0.png	c0	192	
+0xc1.png	c1	193	
+0xc2.png	c2	194	
+0xc3.png	c3	195	
+0xc4.png	c4	196	
+0xc5.png	c5	197	
+0xc6.png	c6	198	
+0xc7.png	c7	199	
+0xc8.png	c8	200	
+0xc9.png	c9	201	
+0xca.png	ca	202	
+0xcb.png	cb	203	
+0xcc.png	cc	204	
+0xcd.png	cd	205	
+0xce.png	ce	206	
+0xcf.png	cf	207	
+0xd1.png	d1	209	
+0xd2.png	d2	210	
+0xd3.png	d3	211	
+0xd4.png	d4	212	
+0xd5.png	d5	213	
+0xd6.png	d6	214	
+0xd8.png	d8	216	
+0xd9.png	d9	217	
+0xda.png	da	218	
+0xdb.png	db	219	
+0xdc.png	dc	220	
+0xdf.png	df	223	
+0xe0.png	e0	224	
+0xe1.png	e1	225	
+0xe2.png	e2	226	
+0xe3.png	e3	227	
+0xe4.png	e4	228	
+0xe5.png	e5	229	
+0xe6.png	e6	230	
+0xe7.png	e7	231	
+0xe8.png	e8	232	
+0xe9.png	e9	233	
+0xea.png	ea	234	
+0xeb.png	eb	235	
+0xec.png	ec	236	
+0xed.png	ed	237	
+0xee.png	ee	238	
+0xef.png	ef	239	
+0xf1.png	f1	241	
+0xf2.png	f2	242	
+0xf3.png	f3	243	
+0xf4.png	f4	244	
+0xf5.png	f5	245	
+0xf6.png	f6	246	
+0xf7.png	f7	247	
+0xf8.png	f8	248	
+0xf9.png	f9	249	
+0xfa.png	fa	250	
+0xfb.png	fb	251	
+0xfc.png	fc	252	
+0xff.png	ff	255	
+0x131.png	131	305	
+0x152.png	152	338	
+0x153.png	153	339	
+0x178.png	178	376	
+0x192.png	192	402	
+0x3c0.png	3c0	960	
+0x2013.png	2013	8211	
+0x2014.png	2014	8212	
+0x2018.png	2018	8216	
+0x2019.png	2019	8217	
+0x201a.png	201a	8218	
+0x201c.png	201c	8220	
+0x201d.png	201d	8221	
+0x201e.png	201e	8222	
+0x2020.png	2020	8224	
+0x2021.png	2021	8225	
+0x2022.png	2022	8226	
+0x2026.png	2026	8230	
+0x2030.png	2030	8240	
+0x2039.png	2039	8249	
+0x203a.png	203a	8250	
+0x2044.png	2044	8260	
+0x20ac.png	20ac	8364	
+0x211f.png	211f	8479	
+0x2122.png	2122	8482	
+0x2123.png	2123	8483	
+0x2202.png	2202	8706	
+0x2206.png	2206	8710	
+0x220f.png	220f	8719	
+0x2211.png	2211	8721	
+0x221a.png	221a	8730	
+0x221e.png	221e	8734	
+0x222b.png	222b	8747	
+0x2248.png	2248	8776	
+0x2260.png	2260	8800	
+0x2264.png	2264	8804	
+0x2265.png	2265	8805	
+0x25ca.png	25ca	9674	
+0xea00.png	ea00	59904	c4
+0xea01.png	ea01	59905	c3
+0xea02.png	ea02	59906	c2
+0xea03.png	ea03	59907	f3
+0xea04.png	ea04	59908	c1
+0xea05.png	ea05	59909	f2
+0xea06.png	ea06	59910	
+0xea07.png	ea07	59911	f2
+0xea08.png	ea08	59912	
+0xea09.png	ea09	59913	
+0xea0a.png	ea0a	59914	c4
+0xea0b.png	ea0b	59915	c3
+0xea0c.png	ea0c	59916	c2
+0xea0d.png	ea0d	59917	c4
+0xea0e.png	ea0e	59918	c3
+0xea0f.png	ea0f	59919	c2
+0xea10.png	ea10	59920	  
+0xea11.png	ea11	59921	//
+0xea12.png	ea12	59922	/
+0xea13.png	ea13	59923	/
+0xea14.png	ea14	59924	
+0xea15.png	ea15	59925	
+0xea16.png	ea16	59926	
+0xea20.png	ea20	59936	'
+0xea21.png	ea21	59937	;
+0xea22.png	ea22	59938	:
+0xea23.png	ea23	59939	::
+0xea24.png	ea24	59940	:
+0xea25.png	ea25	59941	::
+0xea26.png	ea26	59942	,
+0xea27.png	ea27	59943	;
+0xea30.png	ea30	59952	b
+0xea31.png	ea31	59953	c
+0xea32.png	ea32	59954	d
+0xea33.png	ea33	59955	e
+0xea34.png	ea34	59956	f
+0xea35.png	ea35	59957	g
+0xea36.png	ea36	59958	h
+0xea37.png	ea37	59959	i
+0xea38.png	ea38	59960	j
+0xea39.png	ea39	59961	k
+0xea3a.png	ea3a	59962	l
+0xea3b.png	ea3b	59963	m
+0xea3f.png	ea3f	59967	a
+0xea40.png	ea40	59968	b
+0xea41.png	ea41	59969	c
+0xea42.png	ea42	59970	d
+0xea43.png	ea43	59971	e
+0xea44.png	ea44	59972	f
+0xea45.png	ea45	59973	g
+0xea46.png	ea46	59974	h
+0xea47.png	ea47	59975	i
+0xea48.png	ea48	59976	j
+0xea49.png	ea49	59977	k
+0xea4a.png	ea4a	59978	lm
+0xea4f.png	ea4f	59983	a
+0xea50.png	ea50	59984	b
+0xea51.png	ea51	59985	c
+0xea52.png	ea52	59986	d
+0xea53.png	ea53	59987	e
+0xea54.png	ea54	59988	f
+0xea55.png	ea55	59989	g
+0xea56.png	ea56	59990	h
+0xea57.png	ea57	59991	i
+0xea58.png	ea58	59992	j
+0xea59.png	ea59	59993	k
+0xea5a.png	ea5a	59994	l
+0xea5b.png	ea5b	59995	m
+0xea60.png	ea60	60000	b
+0xea61.png	ea61	60001	c
+0xea62.png	ea62	60002	d
+0xea63.png	ea63	60003	e
+0xea64.png	ea64	60004	f
+0xea65.png	ea65	60005	g
+0xea66.png	ea66	60006	h
+0xea67.png	ea67	60007	i
+0xea68.png	ea68	60008	j
+0xea69.png	ea69	60009	k
+0xea6a.png	ea6a	60010	l
+0xea6b.png	ea6b	60011	m
+0xea71.png	ea71	60017	cv
+0xea72.png	ea72	60018	dv
+0xea73.png	ea73	60019	ev
+0xea74.png	ea74	60020	fv
+0xea75.png	ea75	60021	gv
+0xea76.png	ea76	60022	hv
+0xea77.png	ea77	60023	iv
+0xea78.png	ea78	60024	jv
+0xea79.png	ea79	60025	kv
+0xea7a.png	ea7a	60026	lv
+0xea7b.png	ea7b	60027	mv
+0xea80.png	ea80	60032	B
+0xea81.png	ea81	60033	C
+0xea82.png	ea82	60034	D
+0xea83.png	ea83	60035	E
+0xea84.png	ea84	60036	F
+0xea85.png	ea85	60037	G
+0xea86.png	ea86	60038	H
+0xea87.png	ea87	60039	I
+0xea88.png	ea88	60040	J
+0xea89.png	ea89	60041	K
+0xea8a.png	ea8a	60042	L
+0xea8b.png	ea8b	60043	M
+0xea8f.png	ea8f	60047	A
+0xea90.png	ea90	60048	bw
+0xea91.png	ea91	60049	cw
+0xea92.png	ea92	60050	dw
+0xea93.png	ea93	60051	ew
+0xea94.png	ea94	60052	fw
+0xea95.png	ea95	60053	gw
+0xea96.png	ea96	60054	hw
+0xea97.png	ea97	60055	iw
+0xea98.png	ea98	60056	jw
+0xea99.png	ea99	60057	kw
+0xea9a.png	ea9a	60058	lw
+0xeaa0.png	eaa0	60064	b+
+0xeaa1.png	eaa1	60065	c+
+0xeaa2.png	eaa2	60066	d+
+0xeaa3.png	eaa3	60067	e+
+0xeaa4.png	eaa4	60068	f+
+0xeaa5.png	eaa5	60069	g+
+0xeaa6.png	eaa6	60070	h+
+0xeaa7.png	eaa7	60071	i+
+0xeaa8.png	eaa8	60072	j+
+0xeaa9.png	eaa9	60073	k+
+0xeaaa.png	eaaa	60074	l+
+0xeaab.png	eaab	60075	m+
+0xeaae.png	eaae	60078	a+
+0xeaaf.png	eaaf	60079	b+
+0xeab0.png	eab0	60080	br
+0xeab1.png	eab1	60081	cr
+0xeab2.png	eab2	60082	dr
+0xeab3.png	eab3	60083	er
+0xeab4.png	eab4	60084	fr
+0xeab5.png	eab5	60085	gr
+0xeab6.png	eab6	60086	hr
+0xeab7.png	eab7	60087	ir
+0xeab8.png	eab8	60088	jr
+0xeab9.png	eab9	60089	kr
+0xeaba.png	eaba	60090	lr
+0xeac0.png	eac0	60096	
+0xeac1.png	eac1	60097	
+0xeac2.png	eac2	60098	
+0xeac3.png	eac3	60099	
+0xeac4.png	eac4	60100	
+0xeac5.png	eac5	60101	
+0xeac6.png	eac6	60102	
+0xeac7.png	eac7	60103	
+0xeac8.png	eac8	60104	
+0xeac9.png	eac9	60105	
+0xeaca.png	eaca	60106	
+0xead0.png	ead0	60112	ba
+0xead1.png	ead1	60113	cb
+0xead2.png	ead2	60114	dc
+0xead3.png	ead3	60115	ed
+0xead4.png	ead4	60116	fe
+0xead5.png	ead5	60117	gf
+0xead6.png	ead6	60118	hg
+0xead7.png	ead7	60119	ih
+0xead8.png	ead8	60120	ji
+0xead9.png	ead9	60121	kj
+0xeada.png	eada	60122	lk
+0xeae0.png	eae0	60128	ba
+0xeae1.png	eae1	60129	cb
+0xeae2.png	eae2	60130	dc
+0xeae3.png	eae3	60131	ed
+0xeae4.png	eae4	60132	fe
+0xeae5.png	eae5	60133	gf
+0xeae6.png	eae6	60134	hg
+0xeae7.png	eae7	60135	ih
+0xeae8.png	eae8	60136	ji
+0xeae9.png	eae9	60137	kj
+0xeaea.png	eaea	60138	lk
+0xeaf1.png	eaf1	60145	ca
+0xeaf2.png	eaf2	60146	db
+0xeaf3.png	eaf3	60147	ec
+0xeaf4.png	eaf4	60148	fd
+0xeaf5.png	eaf5	60149	ge
+0xeaf6.png	eaf6	60150	hf
+0xeaf7.png	eaf7	60151	ig
+0xeaf8.png	eaf8	60152	jh
+0xeaf9.png	eaf9	60153	ki
+0xeafa.png	eafa	60154	lj
+0xeb01.png	eb01	60161	ca
+0xeb02.png	eb02	60162	db
+0xeb03.png	eb03	60163	ec
+0xeb04.png	eb04	60164	fd
+0xeb05.png	eb05	60165	ge
+0xeb06.png	eb06	60166	hf
+0xeb07.png	eb07	60167	ig
+0xeb08.png	eb08	60168	jh
+0xeb09.png	eb09	60169	ki
+0xeb0a.png	eb0a	60170	lj
+0xeb12.png	eb12	60178	da
+0xeb13.png	eb13	60179	eb
+0xeb14.png	eb14	60180	fc
+0xeb15.png	eb15	60181	gd
+0xeb16.png	eb16	60182	he
+0xeb17.png	eb17	60183	if
+0xeb18.png	eb18	60184	jg
+0xeb19.png	eb19	60185	kh
+0xeb1a.png	eb1a	60186	li
+0xeb22.png	eb22	60194	da
+0xeb23.png	eb23	60195	eb
+0xeb24.png	eb24	60196	fc
+0xeb25.png	eb25	60197	gd
+0xeb26.png	eb26	60198	he
+0xeb27.png	eb27	60199	if
+0xeb28.png	eb28	60200	jg
+0xeb29.png	eb29	60201	kh
+0xeb2a.png	eb2a	60202	li
+0xeb31.png	eb31	60209	c
+0xeb32.png	eb32	60210	d
+0xeb33.png	eb33	60211	e
+0xeb34.png	eb34	60212	f
+0xeb35.png	eb35	60213	g
+0xeb36.png	eb36	60214	h
+0xeb37.png	eb37	60215	i
+0xeb38.png	eb38	60216	j
+0xeb39.png	eb39	60217	k
+0xeb3a.png	eb3a	60218	l
+0xeb3b.png	eb3b	60219	m
+0xeb41.png	eb41	60225	c~
+0xeb42.png	eb42	60226	d~
+0xeb43.png	eb43	60227	e~
+0xeb44.png	eb44	60228	f~
+0xeb45.png	eb45	60229	g~
+0xeb46.png	eb46	60230	h~
+0xeb47.png	eb47	60231	i~
+0xeb48.png	eb48	60232	j~
+0xeb49.png	eb49	60233	k~
+0xeb4a.png	eb4a	60234	l~
+0xeb4b.png	eb4b	60235	m~
+0xeb50.png	eb50	60240	b<
+0xeb51.png	eb51	60241	c<
+0xeb52.png	eb52	60242	d<
+0xeb53.png	eb53	60243	e<
+0xeb54.png	eb54	60244	f<
+0xeb55.png	eb55	60245	g<
+0xeb56.png	eb56	60246	h<
+0xeb57.png	eb57	60247	i<
+0xeb58.png	eb58	60248	j<
+0xeb59.png	eb59	60249	k<
+0xeb5a.png	eb5a	60250	l<
+0xeb5f.png	eb5f	60255	a<
+0xeb60.png	eb60	60256	b>
+0xeb61.png	eb61	60257	c>
+0xeb62.png	eb62	60258	d>
+0xeb63.png	eb63	60259	e>
+0xeb64.png	eb64	60260	f>
+0xeb65.png	eb65	60261	g>
+0xeb66.png	eb66	60262	h>
+0xeb67.png	eb67	60263	i>
+0xeb68.png	eb68	60264	j>
+0xeb69.png	eb69	60265	k>
+0xeb6a.png	eb6a	60266	l>
+0xeb6b.png	eb6b	60267	m>
+0xeb70.png	eb70	60272	b~
+0xeb71.png	eb71	60273	c~
+0xeb72.png	eb72	60274	d~
+0xeb73.png	eb73	60275	e~
+0xeb74.png	eb74	60276	f~
+0xeb75.png	eb75	60277	g~
+0xeb76.png	eb76	60278	h~
+0xeb77.png	eb77	60279	i~
+0xeb78.png	eb78	60280	j~
+0xeb79.png	eb79	60281	k~
+0xeb7a.png	eb7a	60282	l~
+0xeb7f.png	eb7f	60287	a~
+0xeb80.png	eb80	60288	bo
+0xeb81.png	eb81	60289	co
+0xeb82.png	eb82	60290	do
+0xeb83.png	eb83	60291	eo
+0xeb84.png	eb84	60292	fo
+0xeb85.png	eb85	60293	go
+0xeb86.png	eb86	60294	ho
+0xeb87.png	eb87	60295	io
+0xeb88.png	eb88	60296	jo
+0xeb89.png	eb89	60297	ko
+0xeb8a.png	eb8a	60298	lo
+0xeb8f.png	eb8f	60303	ao
+0xeb90.png	eb90	60304	bs
+0xeb91.png	eb91	60305	cs
+0xeb92.png	eb92	60306	ds
+0xeb93.png	eb93	60307	es
+0xeb94.png	eb94	60308	fs
+0xeb95.png	eb95	60309	gs
+0xeb96.png	eb96	60310	hs
+0xeb97.png	eb97	60311	is
+0xeb98.png	eb98	60312	js
+0xeb99.png	eb99	60313	ks
+0xeb9a.png	eb9a	60314	ls
+0xeb9f.png	eb9f	60319	as
+0xeba0.png	eba0	60320	bs<
+0xeba1.png	eba1	60321	cs<
+0xeba2.png	eba2	60322	ds<
+0xeba3.png	eba3	60323	es<
+0xeba4.png	eba4	60324	fs<
+0xeba5.png	eba5	60325	gs<
+0xeba6.png	eba6	60326	hs<
+0xeba7.png	eba7	60327	is<
+0xeba8.png	eba8	60328	js<
+0xeba9.png	eba9	60329	ks<
+0xebaa.png	ebaa	60330	ls<
+0xebb0.png	ebb0	60336	b
+0xebb1.png	ebb1	60337	c
+0xebb2.png	ebb2	60338	d
+0xebb3.png	ebb3	60339	e
+0xebb4.png	ebb4	60340	f
+0xebb5.png	ebb5	60341	g
+0xebb6.png	ebb6	60342	h
+0xebb7.png	ebb7	60343	i
+0xebb8.png	ebb8	60344	j
+0xebb9.png	ebb9	60345	k
+0xebba.png	ebba	60346	l
+0xebbf.png	ebbf	60351	a
+0xebc0.png	ebc0	60352	b
+0xebc1.png	ebc1	60353	c
+0xebc2.png	ebc2	60354	d
+0xebc3.png	ebc3	60355	e
+0xebc4.png	ebc4	60356	f
+0xebc5.png	ebc5	60357	g
+0xebc6.png	ebc6	60358	h
+0xebc7.png	ebc7	60359	i
+0xebc8.png	ebc8	60360	j
+0xebc9.png	ebc9	60361	k
+0xebca.png	ebca	60362	l
+0xebcf.png	ebcf	60367	a
+0xebd0.png	ebd0	60368	B
+0xebd1.png	ebd1	60369	C
+0xebd2.png	ebd2	60370	D
+0xebd3.png	ebd3	60371	E
+0xebd4.png	ebd4	60372	F
+0xebd5.png	ebd5	60373	G
+0xebd6.png	ebd6	60374	H
+0xebd7.png	ebd7	60375	I
+0xebd8.png	ebd8	60376	J
+0xebd9.png	ebd9	60377	K
+0xebda.png	ebda	60378	L
+0xebdf.png	ebdf	60383	A
+0xebe0.png	ebe0	60384	b
+0xebe1.png	ebe1	60385	c
+0xebe2.png	ebe2	60386	d
+0xebe3.png	ebe3	60387	e
+0xebe4.png	ebe4	60388	f
+0xebe5.png	ebe5	60389	g
+0xebe6.png	ebe6	60390	h
+0xebe7.png	ebe7	60391	i
+0xebe8.png	ebe8	60392	j
+0xebe9.png	ebe9	60393	k
+0xebea.png	ebea	60394	l
+0xebef.png	ebef	60399	a
+0xebf0.png	ebf0	60400	<sp>V.</sp>
+0xebf1.png	ebf1	60401	<sp>R.</sp>
+0xebf2.png	ebf2	60402	+
+0xebf3.png	ebf3	60403	r1
+0xebf4.png	ebf4	60404	r1
+0xebf5.png	ebf5	60405	`
+0xebf6.png	ebf6	60406	
+0xebf7.png	ebf7	60407	c3
+0xebf8.png	ebf8	60408	c2
+0xebf9.png	ebf9	60409	
+0xec00.png	ec00	60416	bx
+0xec01.png	ec01	60417	cx
+0xec02.png	ec02	60418	dx
+0xec03.png	ec03	60419	ex
+0xec04.png	ec04	60420	fx
+0xec05.png	ec05	60421	gx
+0xec06.png	ec06	60422	hx
+0xec07.png	ec07	60423	ix
+0xec08.png	ec08	60424	jx
+0xec09.png	ec09	60425	kx
+0xec0f.png	ec0f	60431	ax
+0xec10.png	ec10	60432	by
+0xec11.png	ec11	60433	cy
+0xec12.png	ec12	60434	dy
+0xec13.png	ec13	60435	ey
+0xec14.png	ec14	60436	fy
+0xec15.png	ec15	60437	gy
+0xec16.png	ec16	60438	hy
+0xec17.png	ec17	60439	iy
+0xec18.png	ec18	60440	jy
+0xec19.png	ec19	60441	ky
+0xec1a.png	ec1a	60442	ly
+0xec20.png	ec20	60448	b#
+0xec21.png	ec21	60449	c#
+0xec22.png	ec22	60450	d#
+0xec23.png	ec23	60451	e#
+0xec24.png	ec24	60452	f#
+0xec25.png	ec25	60453	g#
+0xec26.png	ec26	60454	h#
+0xec27.png	ec27	60455	i#
+0xec28.png	ec28	60456	j#
+0xec29.png	ec29	60457	k#
+0xec2a.png	ec2a	60458	l#
+0xec30.png	ec30	60464	.
+0xec31.png	ec31	60465	.
+0xec32.png	ec32	60466	.
+0xec33.png	ec33	60467	.
+0xec34.png	ec34	60468	.
+0xec35.png	ec35	60469	.
+0xec36.png	ec36	60470	.
+0xec37.png	ec37	60471	.
+0xec38.png	ec38	60472	.
+0xec39.png	ec39	60473	.
+0xec3a.png	ec3a	60474	.
+0xec3e.png	ec3e	60478	.
+0xec3f.png	ec3f	60479	.
+0xec40.png	ec40	60480	'
+0xec41.png	ec41	60481	'
+0xec42.png	ec42	60482	'
+0xec43.png	ec43	60483	'
+0xec44.png	ec44	60484	'
+0xec45.png	ec45	60485	'
+0xec46.png	ec46	60486	'
+0xec47.png	ec47	60487	'
+0xec48.png	ec48	60488	'
+0xec49.png	ec49	60489	'
+0xec4a.png	ec4a	60490	'
+0xec4b.png	ec4b	60491	'
+0xec4e.png	ec4e	60494	'
+0xec4f.png	ec4f	60495	'
+0xec50.png	ec50	60496	_
+0xec51.png	ec51	60497	_
+0xec52.png	ec52	60498	_
+0xec53.png	ec53	60499	_
+0xec54.png	ec54	60500	_
+0xec55.png	ec55	60501	_
+0xec56.png	ec56	60502	_
+0xec57.png	ec57	60503	_
+0xec58.png	ec58	60504	_
+0xec59.png	ec59	60505	_
+0xec5a.png	ec5a	60506	_
+0xec5b.png	ec5b	60507	_
+0xec5d.png	ec5d	60509	_
+0xec5e.png	ec5e	60510	_
+0xec5f.png	ec5f	60511	_
+0xec60.png	ec60	60512	__
+0xec61.png	ec61	60513	__
+0xec62.png	ec62	60514	__
+0xec63.png	ec63	60515	__
+0xec64.png	ec64	60516	__
+0xec65.png	ec65	60517	__
+0xec66.png	ec66	60518	__
+0xec67.png	ec67	60519	__
+0xec68.png	ec68	60520	__
+0xec69.png	ec69	60521	__
+0xec6a.png	ec6a	60522	__
+0xec6b.png	ec6b	60523	__
+0xec70.png	ec70	60528	
+0xec71.png	ec71	60529	
+0xec72.png	ec72	60530	
+0xec73.png	ec73	60531	
+0xec74.png	ec74	60532	
+0xec75.png	ec75	60533	
+0xec76.png	ec76	60534	
+0xec77.png	ec77	60535	
+0xec78.png	ec78	60536	
+0xec79.png	ec79	60537	
+0xec7a.png	ec7a	60538	
+0xec7b.png	ec7b	60539	
+0xec80.png	ec80	60544	
+0xec81.png	ec81	60545	
+0xec82.png	ec82	60546	
+0xec83.png	ec83	60547	
+0xec84.png	ec84	60548	
+0xec85.png	ec85	60549	
+0xec86.png	ec86	60550	
+0xec87.png	ec87	60551	
+0xec88.png	ec88	60552	
+0xec89.png	ec89	60553	
+0xec8a.png	ec8a	60554	
+0xec8b.png	ec8b	60555	
+0xec90.png	ec90	60560	
+0xec91.png	ec91	60561	
+0xec92.png	ec92	60562	
+0xec93.png	ec93	60563	
+0xec94.png	ec94	60564	
+0xec95.png	ec95	60565	
+0xec96.png	ec96	60566	
+0xec97.png	ec97	60567	
+0xec98.png	ec98	60568	
+0xec99.png	ec99	60569	
+0xec9a.png	ec9a	60570	
+0xec9b.png	ec9b	60571	
+0xeca0.png	eca0	60576	
+0xeca1.png	eca1	60577	
+0xeca2.png	eca2	60578	
+0xeca3.png	eca3	60579	
+0xeca4.png	eca4	60580	
+0xeca5.png	eca5	60581	
+0xeca6.png	eca6	60582	
+0xeca7.png	eca7	60583	
+0xeca8.png	eca8	60584	
+0xeca9.png	eca9	60585	
+0xecaa.png	ecaa	60586	
+0xecaf.png	ecaf	60591	
+0xecb0.png	ecb0	60592	
+0xecb1.png	ecb1	60593	
+0xecb2.png	ecb2	60594	
+0xecb3.png	ecb3	60595	
+0xecb4.png	ecb4	60596	
+0xecb5.png	ecb5	60597	
+0xecb6.png	ecb6	60598	
+0xecc0.png	ecc0	60608	
+0xecc1.png	ecc1	60609	
+0xecc2.png	ecc2	60610	
+0xecc3.png	ecc3	60611	
+0xecc4.png	ecc4	60612	
+0xecc5.png	ecc5	60613	
+0xecc6.png	ecc6	60614	
+0xecc7.png	ecc7	60615	
+0xecc8.png	ecc8	60616	
+0xecc9.png	ecc9	60617	
+0xecca.png	ecca	60618	
+0xecd0.png	ecd0	60624	
+0xecd1.png	ecd1	60625	
+0xecd2.png	ecd2	60626	
+0xecd3.png	ecd3	60627	
+0xecd4.png	ecd4	60628	
+0xecd5.png	ecd5	60629	
+0xecd6.png	ecd6	60630	
+0xecd7.png	ecd7	60631	
+0xecd8.png	ecd8	60632	
+0xecd9.png	ecd9	60633	
+0xecda.png	ecda	60634	
+0xecdf.png	ecdf	60639	
+0xece0.png	ece0	60640	
+0xece1.png	ece1	60641	
+0xece2.png	ece2	60642	
+0xece3.png	ece3	60643	
+0xece4.png	ece4	60644	
+0xece5.png	ece5	60645	
+0xece6.png	ece6	60646	
+0xece7.png	ece7	60647	
+0xece8.png	ece8	60648	
+0xece9.png	ece9	60649	
+0xecea.png	ecea	60650	
+0xecf0.png	ecf0	60656	
+0xecf1.png	ecf1	60657	
+0xecf2.png	ecf2	60658	
+0xecf3.png	ecf3	60659	
+0xecf4.png	ecf4	60660	
+0xecf5.png	ecf5	60661	
+0xecf6.png	ecf6	60662	
+0xecf7.png	ecf7	60663	
+0xecf8.png	ecf8	60664	
+0xecf9.png	ecf9	60665	
+0xecfa.png	ecfa	60666	
+0xecfb.png	ecfb	60667	
+0xecfc.png	ecfc	60668	
+0xecfd.png	ecfd	60669	
+0xecfe.png	ecfe	60670	
+0xecff.png	ecff	60671	
+0xed00.png	ed00	60672	
+0xed01.png	ed01	60673	
+0xed02.png	ed02	60674	
+0xed03.png	ed03	60675	
+0xed04.png	ed04	60676	
+0xed05.png	ed05	60677	
+0xed06.png	ed06	60678	
+0xed07.png	ed07	60679	
+0xed08.png	ed08	60680	
+0xed09.png	ed09	60681	
+0xed0a.png	ed0a	60682	
+0xed0b.png	ed0b	60683	
+0xed0c.png	ed0c	60684	
+0xed0d.png	ed0d	60685	
+0xed0f.png	ed0f	60687	
+0xed10.png	ed10	60688	
+0xed11.png	ed11	60689	
+0xed12.png	ed12	60690	
+0xed13.png	ed13	60691	
+0xed14.png	ed14	60692	
+0xed15.png	ed15	60693	
+0xed16.png	ed16	60694	
+0xed17.png	ed17	60695	
+0xed18.png	ed18	60696	
+0xed19.png	ed19	60697	
+0xed1a.png	ed1a	60698	
+0xed1b.png	ed1b	60699	
+0xed20.png	ed20	60704	
+0xed21.png	ed21	60705	
+0xed22.png	ed22	60706	
+0xed23.png	ed23	60707	
+0xed24.png	ed24	60708	
+0xed25.png	ed25	60709	
+0xed26.png	ed26	60710	
+0xed27.png	ed27	60711	
+0xed28.png	ed28	60712	
+0xed29.png	ed29	60713	
+0xed2a.png	ed2a	60714	
+0xed2b.png	ed2b	60715	
+0xed2c.png	ed2c	60716	
+0xed2d.png	ed2d	60717	
+0xed2e.png	ed2e	60718	
+0xed2f.png	ed2f	60719	
+0xed30.png	ed30	60720	
+0xed31.png	ed31	60721	
+0xed32.png	ed32	60722	
+0xed33.png	ed33	60723	
+0xed34.png	ed34	60724	
+0xed35.png	ed35	60725	
+0xed36.png	ed36	60726	
+0xed37.png	ed37	60727	
+0xed38.png	ed38	60728	
+0xed39.png	ed39	60729	
+0xed3a.png	ed3a	60730	
+0xed3b.png	ed3b	60731	
+0xed3c.png	ed3c	60732	
+0xed3d.png	ed3d	60733	
+0xed3e.png	ed3e	60734	
+0xed3f.png	ed3f	60735	
+0xed40.png	ed40	60736	
+0xed41.png	ed41	60737	
+0xed42.png	ed42	60738	
+0xed43.png	ed43	60739	
+0xed44.png	ed44	60740	
+0xed45.png	ed45	60741	
+0xed46.png	ed46	60742	
+0xed47.png	ed47	60743	
+0xed48.png	ed48	60744	
+0xed49.png	ed49	60745	
+0xed4a.png	ed4a	60746	
+0xed4b.png	ed4b	60747	
+0xed50.png	ed50	60752	b>
+0xed51.png	ed51	60753	c>
+0xed52.png	ed52	60754	d>
+0xed53.png	ed53	60755	e>
+0xed54.png	ed54	60756	f>
+0xed55.png	ed55	60757	g>
+0xed56.png	ed56	60758	h>
+0xed57.png	ed57	60759	i>
+0xed58.png	ed58	60760	j>
+0xed59.png	ed59	60761	k>
+0xed5a.png	ed5a	60762	l>
+0xed5b.png	ed5b	60763	m>
+0xed60.png	ed60	60768	B
+0xed61.png	ed61	60769	C
+0xed62.png	ed62	60770	D
+0xed63.png	ed63	60771	E
+0xed64.png	ed64	60772	F
+0xed65.png	ed65	60773	G
+0xed66.png	ed66	60774	H
+0xed67.png	ed67	60775	I
+0xed68.png	ed68	60776	J
+0xed69.png	ed69	60777	K
+0xed6a.png	ed6a	60778	L
+0xf021.png	f021	61473	
+0xf023.png	f023	61475	
+0xf024.png	f024	61476	
+0xf025.png	f025	61477	
+0xf026.png	f026	61478	
+0xf027.png	f027	61479	
+0xf028.png	f028	61480	
+0xf029.png	f029	61481	
+0xf02a.png	f02a	61482	
+0xf02b.png	f02b	61483	
+0xf02c.png	f02c	61484	
+0xf02d.png	f02d	61485	
+0xf02e.png	f02e	61486	
+0xf02f.png	f02f	61487	
+0xf030.png	f030	61488	
+0xf031.png	f031	61489	
+0xf032.png	f032	61490	
+0xf033.png	f033	61491	
+0xf034.png	f034	61492	
+0xf035.png	f035	61493	
+0xf036.png	f036	61494	
+0xf037.png	f037	61495	
+0xf038.png	f038	61496	
+0xf039.png	f039	61497	
+0xf03b.png	f03b	61499	
+0xf03c.png	f03c	61500	
+0xf03d.png	f03d	61501	
+0xf03e.png	f03e	61502	
+0xf03f.png	f03f	61503	
+0xf040.png	f040	61504	
+0xf041.png	f041	61505	
+0xf042.png	f042	61506	
+0xf043.png	f043	61507	
+0xf044.png	f044	61508	
+0xf045.png	f045	61509	
+0xf046.png	f046	61510	
+0xf047.png	f047	61511	
+0xf048.png	f048	61512	
+0xf049.png	f049	61513	
+0xf04a.png	f04a	61514	
+0xf04b.png	f04b	61515	
+0xf04c.png	f04c	61516	
+0xf04d.png	f04d	61517	
+0xf04e.png	f04e	61518	
+0xf04f.png	f04f	61519	
+0xf050.png	f050	61520	
+0xf051.png	f051	61521	
+0xf052.png	f052	61522	
+0xf053.png	f053	61523	
+0xf054.png	f054	61524	
+0xf055.png	f055	61525	
+0xf056.png	f056	61526	
+0xf057.png	f057	61527	
+0xf058.png	f058	61528	
+0xf059.png	f059	61529	
+0xf05a.png	f05a	61530	
+0xf05b.png	f05b	61531	
+0xf05c.png	f05c	61532	
+0xf05d.png	f05d	61533	
+0xf05e.png	f05e	61534	
+0xf05f.png	f05f	61535	
+0xf060.png	f060	61536	
+0xf061.png	f061	61537	
+0xf062.png	f062	61538	
+0xf063.png	f063	61539	
+0xf064.png	f064	61540	
+0xf065.png	f065	61541	
+0xf066.png	f066	61542	
+0xf067.png	f067	61543	
+0xf068.png	f068	61544	
+0xf069.png	f069	61545	
+0xf06a.png	f06a	61546	
+0xf06b.png	f06b	61547	
+0xf06c.png	f06c	61548	
+0xf06d.png	f06d	61549	
+0xf06e.png	f06e	61550	
+0xf06f.png	f06f	61551	
+0xf070.png	f070	61552	
+0xf071.png	f071	61553	
+0xf072.png	f072	61554	
+0xf073.png	f073	61555	
+0xf074.png	f074	61556	
+0xf075.png	f075	61557	
+0xf076.png	f076	61558	
+0xf077.png	f077	61559	
+0xf078.png	f078	61560	
+0xf079.png	f079	61561	
+0xf07a.png	f07a	61562	
+0xf07b.png	f07b	61563	
+0xf07c.png	f07c	61564	
+0xf07d.png	f07d	61565	
+0xf07e.png	f07e	61566	
+0xfb01.png	fb01	64257	
+0xfb02.png	fb02	64258	

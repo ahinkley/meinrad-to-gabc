@@ -1,0 +1,5 @@
+cp list_ascii MeinradA_ascii.csv
+cp list_ascii MeinradB_ascii.csv
+cp list_ascii MeinradC_ascii.csv
+cp list_ascii StMeinradA_ascii.csv
+cp list_ascii StMeinradB_ascii.csv
